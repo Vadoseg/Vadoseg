@@ -1,4 +1,4 @@
-## Hello, Vadim here | Turning ideas into functional code.
+## Hello, I'm Vadim | Turning ideas into functional code.
 
 <div align="center">
   <h2><b>C++ Software Engineer⚙️</b> | <i>Embedded Linux🐧</i> | <b>Systems Programmer📟</b></h2>
