@@ -22,7 +22,7 @@
 
 ### Projects I have worked on
 * Linux Kernel Drivers for I2C\SPI devices, FPGA Modules. From simple character devices to Industrial IO for automatically configurable devices.
-* Highly optimized, multi-threaded backend services designed for high-load environments. Optimized algorithms with SIMD intrinsics based on cache friendly architecture.
+* Developed highly optimized, multi-threaded backend services for high-load environments. Improved performance by implementing SIMD-driven algorithms and leveraging cache-friendly data structures.
 * Bare-metal SoC-based health-check tools and automatic tests with limited on chip memory.
 * Led the architecture, development, and Long-Term Support (LTS) of a multi-layered test automation system for custom computing boards.
 
